@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Bob Dow makes fun lighting fixtures]]></title>
-        <description><![CDATA[Bob Dow makes fun lighting fixtures]]></description>
+        <title><![CDATA[Bob Dow makes fun things that light up]]></title>
+        <description><![CDATA[Bob Dow makes fun things that light up]]></description>
         <link>https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 20:01:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 20:14:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/887d408b-7bcc-4ed8-9690-5563e8ad5eed.jpg">]]></description>
+            <link>https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/this-is-a-3200-pixel-matrix-on-the-wall-in-our-living-room/index.html</link>
+            <guid isPermaLink="false">bf915914-ad42-462e-8043-46b2ab2eaf15</guid>
+            <pubDate>Mon, 14 Mar 2016 20:13:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c590b8c4-cb0f-41fc-950c-332a0eb2a89d.jpg">]]></description>
