@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bob Dow makes fun lighting fixtures]]></title>
         <description><![CDATA[Bob Dow makes fun lighting fixtures]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 19:41:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 19:56:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9d8a87a-ba0b-49b0-923f-6d7c60c98650.jpg">]]></description>
+            <link>https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/6c1c73c9-cb81-4adc-beff-9ef68e8f36d7/index.html</link>
+            <guid isPermaLink="false">6c1c73c9-cb81-4adc-beff-9ef68e8f36d7</guid>
+            <pubDate>Mon, 14 Mar 2016 19:56:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af33bd17-bf17-401b-b489-0bc8274064be.png">]]></description>
-            <link>undefined0e0c6e52-be83-4873-980d-d6c7aa9d0a0c/index.html</link>
+            <link>https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/0e0c6e52-be83-4873-980d-d6c7aa9d0a0c/index.html</link>
             <guid isPermaLink="false">0e0c6e52-be83-4873-980d-d6c7aa9d0a0c</guid>
             <pubDate>Mon, 14 Mar 2016 19:41:14 GMT</pubDate>
         </item>
