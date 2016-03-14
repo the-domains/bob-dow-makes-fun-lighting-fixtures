@@ -1,0 +1,28 @@
+name: Bob Dow makes fun lighting fixtures
+favicon: null
+layout_spectrum: 0.8355567371472716
+typography_spectrum: 0.0964214289560914
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6876697812695056
+  lightness: 0.6777979603502899
+  saturation: 0.8404339998960495
+  rhythmicContrast: 0.023693375755101442
+purpose: []
