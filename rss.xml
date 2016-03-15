@@ -4,8 +4,15 @@
         <description><![CDATA[Bob Dow makes fun things that light up]]></description>
         <link>https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 05:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 05:34:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6413e11-0cc9-4bdf-8f0e-26942cb546e9.jpg">]]></description>
+            <link>https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/a02392e8-667d-4854-939a-11f49ee1a8de/index.html</link>
+            <guid isPermaLink="false">a02392e8-667d-4854-939a-11f49ee1a8de</guid>
+            <pubDate>Tue, 15 Mar 2016 05:34:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d10afdc-f8ab-4d7f-8d54-bb4805955011.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/0a0f91fb-127d-4aca-bbb8-bb3de484442e/index.html</link>
             <guid isPermaLink="false">0a0f91fb-127d-4aca-bbb8-bb3de484442e</guid>
             <pubDate>Mon, 14 Mar 2016 20:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4519e9c4-b04f-49dc-93c2-e993fa4e8ab2.jpg">]]></description>
-            <link>https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/85839392-aa4d-4b90-829e-8dee061f7fdb/index.html</link>
-            <guid isPermaLink="false">85839392-aa4d-4b90-829e-8dee061f7fdb</guid>
-            <pubDate>Mon, 14 Mar 2016 20:16:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
