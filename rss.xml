@@ -4,8 +4,15 @@
         <description><![CDATA[Bob Dow makes fun things that light up]]></description>
         <link>https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 21:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 21:19:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9967e33b-5d01-4585-889d-a526d5847a13.jpg">]]></description>
+            <link>https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/these-are-custom-panels-im-using-for-the/index.html</link>
+            <guid isPermaLink="false">df3f3459-fe80-4802-8fee-ab3c5143bed4</guid>
+            <pubDate>Sun, 27 Mar 2016 21:19:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98c3c0d5-2cbc-463e-b732-1dfae9df03cf.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/8ee1f88d-782e-4142-badb-da555c236720/index.html</link>
             <guid isPermaLink="false">8ee1f88d-782e-4142-badb-da555c236720</guid>
             <pubDate>Tue, 15 Mar 2016 03:57:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33677e78-10f5-4a36-9f04-d9481dd478ed.jpg">]]></description>
-            <link>https://thegrid.ai/bob-dow-makes-fun-lighting-fixtures/this-is-in-our-living-room-its-3200-ws2811-pixels-driven-b/index.html</link>
-            <guid isPermaLink="false">357b54ca-47aa-40df-b797-ae41bc580982</guid>
-            <pubDate>Tue, 15 Mar 2016 03:39:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
